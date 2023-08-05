@@ -3,7 +3,7 @@
 //이러한 프로그램을 javaSE프로그램
 public class Calculator {
     public static void main(String[] args) {
-        int n1,n2,sum=0;
+        int n1,n2,sum;
 
         n2=1;
         n1=1;
