@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="java study">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ApiOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/ApiOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CallByReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CallByReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CallByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CallByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/FourArithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodMakeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/MethodMakeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VDATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/VDATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/MovieDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part3/BookDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +80,7 @@
       <workItem from="1691280987232" duration="6352000" />
       <workItem from="1691368776630" duration="3247000" />
       <workItem from="1691399353112" duration="792000" />
-      <workItem from="1691403862430" duration="2878000" />
+      <workItem from="1691403862430" duration="3510000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -156,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691405400135</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691406764342</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691406764342</updated>
+    </task>
+    <task id="LOCAL-00010" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691406881276</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691406881276</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
