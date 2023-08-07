@@ -1,3 +1,5 @@
+package fc.java.part2;
+
 public class CallByValue {
     public static void main(String[] args) {
         float a=59.3f;

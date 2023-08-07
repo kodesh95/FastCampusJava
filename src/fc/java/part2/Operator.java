@@ -1,3 +1,5 @@
+package fc.java.part2;
+
 //javaSE 프로그램
 public class Operator {
     public static void main(String[] args) {

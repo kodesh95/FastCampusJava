@@ -1,34 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="java study">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ApiOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/ApiOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CallByReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CallByReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CallByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CallByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/FourArithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodMakeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/MethodMakeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/Overloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VDATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/part2/VDATest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kodesh95&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="df43a26c-a7a2-4735-9742-cc0a1d5e8a5c" />
+        <option name="url" value="https://github.com/kodesh95/FastCampusJava.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2TZ3KJSTpX6fzSNJSf9xAkPHyJn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,8 +86,84 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691236714927</updated>
-      <workItem from="1691236715978" duration="1000" />
+      <workItem from="1691236715978" duration="2302000" />
+      <workItem from="1691280987232" duration="6352000" />
+      <workItem from="1691368776630" duration="3247000" />
+      <workItem from="1691399353112" duration="792000" />
+      <workItem from="1691403862430" duration="2878000" />
     </task>
+    <task id="LOCAL-00001" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691236809088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691236809088</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691239226319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691239226319</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691239258061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691239258061</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691291260675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691291260675</updated>
+    </task>
+    <task id="LOCAL-00005" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691291316779</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691291316779</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691291906880</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691291906880</updated>
+    </task>
+    <task id="LOCAL-00007" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691404333122</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691404333122</updated>
+    </task>
+    <task id="LOCAL-00008" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691405400135</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691405400135</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java study" />
+    <option name="LAST_COMMIT_MESSAGE" value="java study" />
   </component>
 </project>

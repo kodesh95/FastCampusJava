@@ -1,3 +1,5 @@
+package fc.java.part2;
+
 public class Overloading {
 //    매개변수의 개수 / 매개변수의 데이터 타입을 다르게 한다.
     public static void main(String[] args) {
