@@ -46,3 +46,12 @@ public class PersonTest {
  * 그래서 new연산자와 함께 Person() 메소드를 호출하면 객체가 생성되어 인스턴스가 된다.
  * 특징으로 return 타입이 없다!
  * */
+
+/*
+* 모델(클래스)의 종류
+* 시작모델 : main()메소드를 가지고 있는 클래스
+* DTO모델 : 데이터를 담는 모델
+* DAO모델 : Data Access Object 데이터를 처리하는 모델
+*  - C(저장) R(검색) U(수정) D(삭제)
+* Utility Model : 위 모델을 제외한 도움을 주는 모델
+* */
