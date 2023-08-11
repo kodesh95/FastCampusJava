@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="java study">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/PersonVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ConstructorInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ConstructorOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonInfoHide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/SetterGetterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ToStringPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/AllStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MovieVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/AllStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/BestVOModeling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ClassObjectInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/NoneStaticAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/NoneStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StaticAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StudentArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +68,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/D&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/FastCampusJava&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -91,7 +99,13 @@
       <workItem from="1691487047228" duration="2673000" />
       <workItem from="1691491799265" duration="3815000" />
       <workItem from="1691500644417" duration="594000" />
-      <workItem from="1691534289081" duration="3193000" />
+      <workItem from="1691534289081" duration="4721000" />
+      <workItem from="1691545928041" duration="2830000" />
+      <workItem from="1691587614135" duration="2651000" />
+      <workItem from="1691617918488" duration="1356000" />
+      <workItem from="1691650905507" duration="2047000" />
+      <workItem from="1691730396649" duration="630000" />
+      <workItem from="1691751569972" duration="959000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -237,11 +251,30 @@
       <option name="project" value="LOCAL" />
       <updated>1691494158544</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691537810444</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1691537810444</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java study" />
