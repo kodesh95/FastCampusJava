@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="java study">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeInitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeSuperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/RempVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/CatDogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/CatDogUpcatingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/OverrideTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/model/Employee.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,25 +55,25 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Users/LEO_BOOK3/IdeaProjects/FastCampusJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/FastCampusJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -100,7 +101,10 @@
       <workItem from="1691751569972" duration="959000" />
       <workItem from="1691795817334" duration="956000" />
       <workItem from="1691832339925" duration="1669000" />
-      <workItem from="1691883723926" duration="1831000" />
+      <workItem from="1691883723926" duration="7771000" />
+      <workItem from="1691925937690" duration="215000" />
+      <workItem from="1692006702547" duration="2723000" />
+      <workItem from="1692015905550" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -262,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691796366283</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="java study">
+      <option name="closed" value="true" />
+      <created>1691885923719</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1691885923719</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
