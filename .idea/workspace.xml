@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="java study">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/AbstractClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/IsNotOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/RemoCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectPolyArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectPolyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/poly/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/poly/A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +112,7 @@
       <workItem from="1692051683562" duration="2540000" />
       <workItem from="1692105519247" duration="1220000" />
       <workItem from="1692179267316" duration="7781000" />
-      <workItem from="1692233311087" duration="984000" />
+      <workItem from="1692233311087" duration="2910000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -298,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692052124574</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="java study">
+      <option name="closed" value="true" />
+      <created>1692235191539</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1692235191539</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

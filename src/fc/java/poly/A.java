@@ -7,6 +7,10 @@ public class A extends Object{
     public void display() {
         System.out.println("I am A.");
     }
+    public void printGo() {
+        System.out.println("I am A.");
+
+    }
 }
 
 /*클래스의 default 요소들*/
