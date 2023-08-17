@@ -13,6 +13,7 @@ public class MinMaxFinder {
         return min;
     }
 
+
     public static int findMax(int[] arr) {
         int max = arr[0];
 
