@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="java study">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/CatDogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/CatDogUpcatingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/OverrideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/AbstractClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/IsNotOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/RemoCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/TV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +68,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/FastCampusJava&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/FastCampusJava/src/fc/java/poly&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -74,6 +81,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\LEO_BOOK3\IdeaProjects\FastCampusJava\src\fc\java\poly" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -105,6 +117,10 @@
       <workItem from="1691925937690" duration="215000" />
       <workItem from="1692006702547" duration="2723000" />
       <workItem from="1692015905550" duration="648000" />
+      <workItem from="1692051683562" duration="2540000" />
+      <workItem from="1692105519247" duration="1220000" />
+      <workItem from="1692179267316" duration="7781000" />
+      <workItem from="1692233311087" duration="984000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -274,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691885923719</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="java study">
+      <option name="closed" value="true" />
+      <created>1692052124574</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1692052124574</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
