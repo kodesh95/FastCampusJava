@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="java에서 제공해주는 class">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/RandomAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/GsonFromAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/GsonToAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastCampusJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FastCampusJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +52,25 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/FastCampusJava/src/fc/java/poly&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Users/LEO_BOOK3/download/chrome/gson-2.8.9.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\LEO_BOOK3\IdeaProjects\FastCampusJava\src\fc\java\poly" />
@@ -108,7 +111,9 @@
       <workItem from="1692105519247" duration="1220000" />
       <workItem from="1692179267316" duration="7781000" />
       <workItem from="1692233311087" duration="6297000" />
-      <workItem from="1692283818548" duration="388000" />
+      <workItem from="1692283818548" duration="667000" />
+      <workItem from="1692284502863" duration="8000" />
+      <workItem from="1692364062928" duration="1523000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -318,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692240407032</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="java에서 제공해주는 class">
+      <option name="closed" value="true" />
+      <created>1692284328194</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1692284328195</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +351,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java study" />
     <MESSAGE value="직접 만들어서 사용하는 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="직접 만들어서 사용하는 class" />
+    <MESSAGE value="java에서 제공해주는 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="java에서 제공해주는 class" />
   </component>
 </project>
