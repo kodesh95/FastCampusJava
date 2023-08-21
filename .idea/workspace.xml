@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="Gson을 다운받아서 객체 &lt;-&gt; json">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/IntArrayBasic.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="배열처럼 동작하는 API만들어보기">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MyIntArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +113,8 @@
       <workItem from="1692283818548" duration="667000" />
       <workItem from="1692284502863" duration="8000" />
       <workItem from="1692364062928" duration="1643000" />
-      <workItem from="1692510792559" duration="1795000" />
+      <workItem from="1692510792559" duration="2016000" />
+      <workItem from="1692585155608" duration="2365000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -338,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692366314408</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="배열처럼 동작하는 API만들어보기">
+      <option name="closed" value="true" />
+      <created>1692513091952</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1692513091952</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,6 +370,7 @@
     <MESSAGE value="직접 만들어서 사용하는 class" />
     <MESSAGE value="java에서 제공해주는 class" />
     <MESSAGE value="Gson을 다운받아서 객체 &lt;-&gt; json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gson을 다운받아서 객체 &lt;-&gt; json" />
+    <MESSAGE value="배열처럼 동작하는 API만들어보기" />
+    <option name="LAST_COMMIT_MESSAGE" value="배열처럼 동작하는 API만들어보기" />
   </component>
 </project>
