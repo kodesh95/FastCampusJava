@@ -1,4 +1,4 @@
-package fc.java.course2.part2;
+package fc.java.course2.part1;
 
 import fc.java.course2.model.*;
 
