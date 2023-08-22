@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="배열처럼 동작하는 API만들어보기">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/IntArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MyIntArrayTest.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment=" IntArray 클래스를 만들어 사용하기">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/BookArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyBookArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/course2/part2/IntArrayBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/IntArrayBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/course2/part2/MyIntArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyIntArrayTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +77,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\LEO_BOOK3\IdeaProjects\FastCampusJava\src\fc\java\poly" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fc.java.course2.model" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,7 +120,8 @@
       <workItem from="1692284502863" duration="8000" />
       <workItem from="1692364062928" duration="1643000" />
       <workItem from="1692510792559" duration="2016000" />
-      <workItem from="1692585155608" duration="2365000" />
+      <workItem from="1692585155608" duration="2591000" />
+      <workItem from="1692664408987" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -348,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692513091952</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary=" IntArray 클래스를 만들어 사용하기">
+      <option name="closed" value="true" />
+      <created>1692587565120</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1692587565120</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,6 +386,7 @@
     <MESSAGE value="java에서 제공해주는 class" />
     <MESSAGE value="Gson을 다운받아서 객체 &lt;-&gt; json" />
     <MESSAGE value="배열처럼 동작하는 API만들어보기" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열처럼 동작하는 API만들어보기" />
+    <MESSAGE value=" IntArray 클래스를 만들어 사용하기" />
+    <option name="LAST_COMMIT_MESSAGE" value=" IntArray 클래스를 만들어 사용하기" />
   </component>
 </project>
