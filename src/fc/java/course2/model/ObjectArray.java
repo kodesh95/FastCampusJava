@@ -10,8 +10,13 @@ public class ObjectArray {
 
     //    생성동작
     public ObjectArray() {
+        this(5);
+//        자기 자신안의 함수 : 생성자안에서 다른 생성자를 호출
+//        elements = new Object[DEFAULT_CAPACITY];
+    }
+    public ObjectArray(int a) {
 
-        elements = new Object[DEFAULT_CAPACITY];
+        elements=new Object[a];
     }
 
     //    저장동작
