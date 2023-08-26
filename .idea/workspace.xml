@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/MSSQLDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/MySQLDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/OracleDriver.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="인터페이스를 이용하여 DB에 접속">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/WrapperTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/course2/model/MSSQLDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course2/model/MSSQLDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +129,8 @@
       <workItem from="1692860055953" duration="1249000" />
       <workItem from="1693008823223" duration="142000" />
       <workItem from="1693008985350" duration="4201000" />
-      <workItem from="1693053108369" duration="2024000" />
+      <workItem from="1693053108369" duration="4617000" />
+      <workItem from="1693087386560" duration="1250000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -453,7 +452,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693054166536</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="데이터베이스 연결 Driver란">
+      <option name="closed" value="true" />
+      <created>1693055618246</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1693055618246</updated>
+    </task>
+    <task id="LOCAL-00042" summary="인터페이스를 이용하여 DB에 접속">
+      <option name="closed" value="true" />
+      <created>1693056466138</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1693056466138</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,6 +502,8 @@
     <MESSAGE value="자바에서 문자열을 분리한는 방법" />
     <MESSAGE value="인터페이스 기반의 프로그래밍이란" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="데이터베이스 연결 Driver란" />
+    <MESSAGE value="인터페이스를 이용하여 DB에 접속" />
+    <option name="LAST_COMMIT_MESSAGE" value="인터페이스를 이용하여 DB에 접속" />
   </component>
 </project>
