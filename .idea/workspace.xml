@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="IntArray 클래스를 만들어 사용하기">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/ObjectArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyObjectArrayTest.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="문자열 생성방법 2가지">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/InterfaceAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/StringMainpulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/StringSplit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/course2/part1/HelloWorldString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/HelloWorldString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,7 +64,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/download/chrome/gson-2.8.9.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/FastCampusJava&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,7 +73,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -124,7 +128,14 @@
       <workItem from="1692664408987" duration="3907000" />
       <workItem from="1692688988083" duration="39000" />
       <workItem from="1692689044708" duration="51000" />
-      <workItem from="1692690989355" duration="944000" />
+      <workItem from="1692690989355" duration="1364000" />
+      <workItem from="1692699593765" duration="3000" />
+      <workItem from="1692837492459" duration="4707000" />
+      <workItem from="1692842231622" duration="1218000" />
+      <workItem from="1692860055953" duration="1249000" />
+      <workItem from="1693008823223" duration="142000" />
+      <workItem from="1693008985350" duration="4201000" />
+      <workItem from="1693053108369" duration="721000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -382,7 +393,31 @@
       <option name="project" value="LOCAL" />
       <updated>1692666908065</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="ObjectArray 클래스를 만들어 사용하기">
+      <option name="closed" value="true" />
+      <created>1692692271453</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1692692271453</updated>
+    </task>
+    <task id="LOCAL-00034" summary="ArrayList 클래스 사용하기">
+      <option name="closed" value="true" />
+      <created>1692842150695</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1692842150695</updated>
+    </task>
+    <task id="LOCAL-00035" summary="문자열 생성방법 2가지">
+      <option name="closed" value="true" />
+      <created>1692861245623</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1692861245624</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,6 +443,9 @@
     <MESSAGE value=" IntArray 클래스를 만들어 사용하기" />
     <MESSAGE value="BookArray 클래스를 만들어 사용하기" />
     <MESSAGE value="IntArray 클래스를 만들어 사용하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntArray 클래스를 만들어 사용하기" />
+    <MESSAGE value="ObjectArray 클래스를 만들어 사용하기" />
+    <MESSAGE value="ArrayList 클래스 사용하기" />
+    <MESSAGE value="문자열 생성방법 2가지" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열 생성방법 2가지" />
   </component>
 </project>

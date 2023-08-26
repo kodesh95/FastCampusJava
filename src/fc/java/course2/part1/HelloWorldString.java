@@ -23,4 +23,5 @@ public class HelloWorldString {
 * -String str1 = "Hello World"; (literal : 문자열 상수)
 * -String str2 = "Hello World";
 * str1 과 str2 가 서로 같은 객체를 가리킨다. (또한 객체는 Literal Pool memory에 생성된다.)
+* Literal Pool memory : 재활용 메모리 공간이라서 동일한 문자열을 생성하는 경우 이미 만들어진 것을 사용한다
 * */
