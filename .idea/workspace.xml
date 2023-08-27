@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="순서가 있고 중복 가능한 List 컬렉션 API">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/UniqueNumbers.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="순서가 없고 중복 불가능한 Set 컬렉션 API">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,8 @@
       <workItem from="1693008985350" duration="4201000" />
       <workItem from="1693053108369" duration="4617000" />
       <workItem from="1693087386560" duration="2685000" />
-      <workItem from="1693111511601" duration="5595000" />
+      <workItem from="1693111511601" duration="6466000" />
+      <workItem from="1693126264479" duration="1797000" />
     </task>
     <task id="LOCAL-00001" summary="java study">
       <option name="closed" value="true" />
@@ -509,7 +510,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693115987522</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="순서가 없고 중복 불가능한 Set 컬렉션 API">
+      <option name="closed" value="true" />
+      <created>1693117375004</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1693117375004</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,6 +558,7 @@
     <MESSAGE value="숫자와 문자열의 상호 변환" />
     <MESSAGE value="Collection Framework API(feat.wrapper)" />
     <MESSAGE value="순서가 있고 중복 가능한 List 컬렉션 API" />
-    <option name="LAST_COMMIT_MESSAGE" value="순서가 있고 중복 가능한 List 컬렉션 API" />
+    <MESSAGE value="순서가 없고 중복 불가능한 Set 컬렉션 API" />
+    <option name="LAST_COMMIT_MESSAGE" value="순서가 없고 중복 불가능한 Set 컬렉션 API" />
   </component>
 </project>
