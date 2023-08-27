@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="key-value 쌍으로 관리하는 Map 컬렉션 API">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/ObjectArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericTest.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="Generic을 사용하는 이유">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/ArrayListGeneric.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,15 +132,7 @@
       <workItem from="1693087386560" duration="2685000" />
       <workItem from="1693111511601" duration="6466000" />
       <workItem from="1693126264479" duration="2565000" />
-      <workItem from="1693163741467" duration="2098000" />
-    </task>
-    <task id="LOCAL-00001" summary="java study">
-      <option name="closed" value="true" />
-      <created>1691236809088</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1691236809088</updated>
+      <workItem from="1693163741467" duration="3244000" />
     </task>
     <task id="LOCAL-00002" summary="java study">
       <option name="closed" value="true" />
@@ -527,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693128599173</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Generic을 사용하는 이유">
+      <option name="closed" value="true" />
+      <created>1693167073757</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1693167073757</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,6 +568,7 @@
     <MESSAGE value="순서가 있고 중복 가능한 List 컬렉션 API" />
     <MESSAGE value="순서가 없고 중복 불가능한 Set 컬렉션 API" />
     <MESSAGE value="key-value 쌍으로 관리하는 Map 컬렉션 API" />
-    <option name="LAST_COMMIT_MESSAGE" value="key-value 쌍으로 관리하는 Map 컬렉션 API" />
+    <MESSAGE value="Generic을 사용하는 이유" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic을 사용하는 이유" />
   </component>
 </project>
