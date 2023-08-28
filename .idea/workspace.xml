@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="제네릭 멀티 타입 파라미터">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/AverageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericLimitTest.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="제네릭 제한 타입 파라미터">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/MathOperationImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionInterfaceTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionInterfaceTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +82,40 @@
       <recent name="fc.java.course2.model" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.FunctionInterfaceTest2">
+    <configuration name="FunctionInterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.FunctionInterfaceTest" />
+      <module name="FastCampusJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionInterfaceTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.FunctionInterfaceTest2" />
+      <module name="FastCampusJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FunctionInterfaceTest2" />
+        <item itemvalue="Application.FunctionInterfaceTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -133,15 +170,8 @@
       <workItem from="1693087386560" duration="2685000" />
       <workItem from="1693111511601" duration="6466000" />
       <workItem from="1693126264479" duration="2565000" />
-      <workItem from="1693163741467" duration="4482000" />
-    </task>
-    <task id="LOCAL-00004" summary="java study">
-      <option name="closed" value="true" />
-      <created>1691291260675</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1691291260675</updated>
+      <workItem from="1693163741467" duration="5113000" />
+      <workItem from="1693196127974" duration="757000" />
     </task>
     <task id="LOCAL-00005" summary="java study">
       <option name="closed" value="true" />
@@ -527,7 +557,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693168481021</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="제네릭 제한 타입 파라미터">
+      <option name="closed" value="true" />
+      <created>1693169713351</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1693169713352</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +583,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="java에서 제공해주는 class" />
     <MESSAGE value="Gson을 다운받아서 객체 &lt;-&gt; json" />
     <MESSAGE value="배열처럼 동작하는 API만들어보기" />
     <MESSAGE value=" IntArray 클래스를 만들어 사용하기" />
@@ -570,6 +607,7 @@
     <MESSAGE value="Generic을 사용하는 이유" />
     <MESSAGE value="자바 제네릭 타입이란" />
     <MESSAGE value="제네릭 멀티 타입 파라미터" />
-    <option name="LAST_COMMIT_MESSAGE" value="제네릭 멀티 타입 파라미터" />
+    <MESSAGE value="제네릭 제한 타입 파라미터" />
+    <option name="LAST_COMMIT_MESSAGE" value="제네릭 제한 타입 파라미터" />
   </component>
 </project>
