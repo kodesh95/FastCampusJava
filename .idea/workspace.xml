@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/StringOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaApply.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="람다식 사용법">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamAPITest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <recent name="fc.java.course2.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaApply">
+  <component name="RunManager" selected="Application.StreamAPITest">
     <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.LambdaApply" />
       <module name="FastCampusJava" />
@@ -132,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StringUtilsTest" />
+    <configuration name="StreamAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamAPITest" />
       <module name="FastCampusJava" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamAPITest" />
         <item itemvalue="Application.LambdaApply" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.PersonFactoryTest" />
         <item itemvalue="Application.SortCompareTest" />
-        <item itemvalue="Application.StringUtilsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -219,15 +218,7 @@
       <workItem from="1693297343921" duration="229000" />
       <workItem from="1693361773886" duration="77000" />
       <workItem from="1693361969854" duration="223000" />
-      <workItem from="1693390831599" duration="981000" />
-    </task>
-    <task id="LOCAL-00009" summary="java study">
-      <option name="closed" value="true" />
-      <created>1691406764342</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1691406764342</updated>
+      <workItem from="1693390831599" duration="2299000" />
     </task>
     <task id="LOCAL-00010" summary="java study">
       <option name="closed" value="true" />
@@ -613,7 +604,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693361797409</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="람다식 사용법">
+      <option name="closed" value="true" />
+      <created>1693391906835</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1693391906836</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,7 +630,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BookArray 클래스를 만들어 사용하기" />
     <MESSAGE value="IntArray 클래스를 만들어 사용하기" />
     <MESSAGE value="ObjectArray 클래스를 만들어 사용하기" />
     <MESSAGE value="ArrayList 클래스 사용하기" />
@@ -656,6 +654,7 @@
     <MESSAGE value="함수형 인터페이스 메소드 참조" />
     <MESSAGE value="람다식 이란?" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="람다식 사용법" />
+    <option name="LAST_COMMIT_MESSAGE" value="람다식 사용법" />
   </component>
 </project>
