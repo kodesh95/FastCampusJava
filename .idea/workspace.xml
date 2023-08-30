@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="람다식 사용법">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamAPITest.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="Stream API?">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapStreamExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +80,7 @@
       <recent name="fc.java.course2.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamAPITest">
+  <component name="RunManager" selected="Application.MapStreamExample2">
     <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.LambdaApply" />
       <module name="FastCampusJava" />
@@ -92,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.LambdaExample" />
+    <configuration name="MapStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapStreamExample" />
       <module name="FastCampusJava" />
       <extension name="coverage">
         <pattern>
@@ -105,21 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.PersonFactoryTest" />
-      <module name="FastCampusJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCompareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.SortCompareTest" />
+    <configuration name="MapStreamExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapStreamExample2" />
       <module name="FastCampusJava" />
       <extension name="coverage">
         <pattern>
@@ -144,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamExample" />
+      <module name="FastCampusJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapStreamExample2" />
+        <item itemvalue="Application.StreamExample" />
+        <item itemvalue="Application.MapStreamExample" />
         <item itemvalue="Application.StreamAPITest" />
         <item itemvalue="Application.LambdaApply" />
-        <item itemvalue="Application.LambdaExample" />
-        <item itemvalue="Application.PersonFactoryTest" />
-        <item itemvalue="Application.SortCompareTest" />
       </list>
     </recent_temporary>
   </component>
@@ -218,15 +220,7 @@
       <workItem from="1693297343921" duration="229000" />
       <workItem from="1693361773886" duration="77000" />
       <workItem from="1693361969854" duration="223000" />
-      <workItem from="1693390831599" duration="2299000" />
-    </task>
-    <task id="LOCAL-00010" summary="java study">
-      <option name="closed" value="true" />
-      <created>1691406881276</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1691406881276</updated>
+      <workItem from="1693390831599" duration="4354000" />
     </task>
     <task id="LOCAL-00011" summary="java study">
       <option name="closed" value="true" />
@@ -612,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693391906836</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Stream API?">
+      <option name="closed" value="true" />
+      <created>1693394257656</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1693394257658</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +632,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IntArray 클래스를 만들어 사용하기" />
     <MESSAGE value="ObjectArray 클래스를 만들어 사용하기" />
     <MESSAGE value="ArrayList 클래스 사용하기" />
     <MESSAGE value="문자열 생성방법 2가지" />
@@ -655,6 +656,7 @@
     <MESSAGE value="람다식 이란?" />
     <MESSAGE value="." />
     <MESSAGE value="람다식 사용법" />
-    <option name="LAST_COMMIT_MESSAGE" value="람다식 사용법" />
+    <MESSAGE value="Stream API?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream API?" />
   </component>
 </project>
