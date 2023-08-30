@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="람다식 이란?">
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaApply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,26 +51,26 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/validation/build.gradle&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Users/LEO_BOOK3/IdeaProjects/validation/build.gradle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\LEO_BOOK3\IdeaProjects\FastCampusJava\src\fc\java\poly" />
@@ -77,9 +79,9 @@
       <recent name="fc.java.course2.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaExample">
-    <configuration name="IntegerUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.IntegerUtilsTest" />
+  <component name="RunManager" selected="Application.LambdaApply">
+    <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.LambdaApply" />
       <module name="FastCampusJava" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaApply" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.PersonFactoryTest" />
         <item itemvalue="Application.SortCompareTest" />
         <item itemvalue="Application.StringUtilsTest" />
-        <item itemvalue="Application.IntegerUtilsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -215,14 +217,9 @@
       <workItem from="1693291566610" duration="1239000" />
       <workItem from="1693292841246" duration="3465000" />
       <workItem from="1693297343921" duration="229000" />
-    </task>
-    <task id="LOCAL-00008" summary="java study">
-      <option name="closed" value="true" />
-      <created>1691405400135</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1691405400135</updated>
+      <workItem from="1693361773886" duration="77000" />
+      <workItem from="1693361969854" duration="223000" />
+      <workItem from="1693390831599" duration="981000" />
     </task>
     <task id="LOCAL-00009" summary="java study">
       <option name="closed" value="true" />
@@ -608,7 +605,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693297480620</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary=".">
+      <option name="closed" value="true" />
+      <created>1693361797408</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1693361797409</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +643,6 @@
     <MESSAGE value="데이터베이스 연결 Driver란" />
     <MESSAGE value="인터페이스를 이용하여 DB에 접속" />
     <MESSAGE value="Wapper 클래스란" />
-    <MESSAGE value="." />
     <MESSAGE value="숫자와 문자열의 상호 변환" />
     <MESSAGE value="Collection Framework API(feat.wrapper)" />
     <MESSAGE value="순서가 있고 중복 가능한 List 컬렉션 API" />
@@ -651,6 +655,7 @@
     <MESSAGE value="함수형 인터페이스" />
     <MESSAGE value="함수형 인터페이스 메소드 참조" />
     <MESSAGE value="람다식 이란?" />
-    <option name="LAST_COMMIT_MESSAGE" value="람다식 이란?" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
