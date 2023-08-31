@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="Stream API?">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapStreamExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamExample.java" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="Stream API 활용">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/model2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonFromJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonMemAddToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonToJson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,26 +55,26 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Users/LEO_BOOK3/IdeaProjects/validation/build.gradle",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/LEO_BOOK3/IdeaProjects/validation/build.gradle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\LEO_BOOK3\IdeaProjects\FastCampusJava\src\fc\java\poly" />
@@ -80,13 +83,13 @@
       <recent name="fc.java.course2.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapStreamExample2">
-    <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.LambdaApply" />
+  <component name="RunManager" selected="Application.GsonMemAddFromJson">
+    <configuration name="GsonFromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonFromJson" />
       <module name="FastCampusJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapStreamExample" />
+    <configuration name="GsonMemAddFromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonMemAddFromJson" />
       <module name="FastCampusJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonMemAddToJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonMemAddToJson" />
+      <module name="FastCampusJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonToJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonToJson" />
+      <module name="FastCampusJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,39 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamAPITest" />
-      <module name="FastCampusJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamExample" />
-      <module name="FastCampusJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GsonMemAddFromJson" />
+        <item itemvalue="Application.GsonMemAddToJson" />
+        <item itemvalue="Application.GsonFromJson" />
+        <item itemvalue="Application.GsonToJson" />
         <item itemvalue="Application.MapStreamExample2" />
-        <item itemvalue="Application.StreamExample" />
-        <item itemvalue="Application.MapStreamExample" />
-        <item itemvalue="Application.StreamAPITest" />
-        <item itemvalue="Application.LambdaApply" />
       </list>
     </recent_temporary>
   </component>
@@ -220,15 +223,8 @@
       <workItem from="1693297343921" duration="229000" />
       <workItem from="1693361773886" duration="77000" />
       <workItem from="1693361969854" duration="223000" />
-      <workItem from="1693390831599" duration="4354000" />
-    </task>
-    <task id="LOCAL-00011" summary="java study">
-      <option name="closed" value="true" />
-      <created>1691407409076</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1691407409076</updated>
+      <workItem from="1693390831599" duration="4402000" />
+      <workItem from="1693448214551" duration="1367000" />
     </task>
     <task id="LOCAL-00012" summary="java study">
       <option name="closed" value="true" />
@@ -614,7 +610,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693394257658</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Stream API 활용">
+      <option name="closed" value="true" />
+      <created>1693396055775</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1693396055775</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +636,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ObjectArray 클래스를 만들어 사용하기" />
     <MESSAGE value="ArrayList 클래스 사용하기" />
     <MESSAGE value="문자열 생성방법 2가지" />
     <MESSAGE value="String 클래스에서 제공하는 method 활용하기" />
@@ -657,6 +660,7 @@
     <MESSAGE value="." />
     <MESSAGE value="람다식 사용법" />
     <MESSAGE value="Stream API?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream API?" />
+    <MESSAGE value="Stream API 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream API 활용" />
   </component>
 </project>
