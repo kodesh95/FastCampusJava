@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="Gson API 활용">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/JsoupExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" afterDir="false" />
+    <list default="true" id="1ba55d59-44ad-4e09-9589-2e172b506aec" name="Changes" comment="Jsoup API 할용">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/WeatherExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <recent name="fc.java.course2.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JsoupExample">
+  <component name="RunManager" selected="Application.WeatherExample">
     <configuration name="GsonFromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonFromJson" />
       <module name="FastCampusJava" />
@@ -119,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GsonToJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonToJson" />
-      <module name="FastCampusJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fc.java.course2.part3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JsoupExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.JsoupExample" />
       <module name="FastCampusJava" />
@@ -145,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WeatherExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.WeatherExample" />
+      <module name="FastCampusJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeatherExample" />
         <item itemvalue="Application.JsoupExample" />
         <item itemvalue="Application.GsonMemAddFromJson" />
         <item itemvalue="Application.GsonMemAddToJson" />
         <item itemvalue="Application.GsonFromJson" />
-        <item itemvalue="Application.GsonToJson" />
       </list>
     </recent_temporary>
   </component>
@@ -221,15 +220,7 @@
       <workItem from="1693361969854" duration="223000" />
       <workItem from="1693390831599" duration="4402000" />
       <workItem from="1693448214551" duration="2495000" />
-      <workItem from="1693465728589" duration="567000" />
-    </task>
-    <task id="LOCAL-00013" summary="java study">
-      <option name="closed" value="true" />
-      <created>1691407673256</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1691407673256</updated>
+      <workItem from="1693465728589" duration="2918000" />
     </task>
     <task id="LOCAL-00014" summary="java study">
       <option name="closed" value="true" />
@@ -615,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693449745132</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Jsoup API 할용">
+      <option name="closed" value="true" />
+      <created>1693466468916</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1693466468918</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -633,7 +632,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="문자열 생성방법 2가지" />
     <MESSAGE value="String 클래스에서 제공하는 method 활용하기" />
     <MESSAGE value="자바에서 문자열을 비교하는 방법" />
     <MESSAGE value="자바에서 문자열을 분리한는 방법" />
@@ -658,6 +656,7 @@
     <MESSAGE value="Stream API?" />
     <MESSAGE value="Stream API 활용" />
     <MESSAGE value="Gson API 활용" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gson API 활용" />
+    <MESSAGE value="Jsoup API 할용" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jsoup API 할용" />
   </component>
 </project>
